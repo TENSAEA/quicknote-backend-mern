@@ -1,1 +1,1 @@
-This is Product Backend with Node and Express JS.
+This is Quicknote Backend with Node and Express JS.
