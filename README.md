@@ -12,6 +12,8 @@ QuickNotes is a backend API for a simple note-taking application. This project i
 - [API Endpoints](#api-endpoints)
 - [Contributing](#contributing)
 
+  https://www.veed.io/view/c3c4903e-09d9-4b08-a10b-53f6856d046c?panel=share
+
 ## Installation
 
 1. Clone the repository:
